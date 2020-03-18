@@ -2,6 +2,12 @@
 
 Example of reading cards from this RFID reader.
 
+![Image alt](https://github.com/Kazakoff64/USB-RFID-reader/blob/master/RFID.png)
+
+![Image alt](https://github.com/Kazakoff64/USB-RFID-reader/blob/master/IMG_20200318_100246.jpg)
+
+
+
 This reader was purchased on aliexpress.
 
 Link to the product below.
